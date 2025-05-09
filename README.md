@@ -1,5 +1,3 @@
-# FastAPI Firebase & Supabase Template
-
 ## Setup
 
 1. Create a Firebase project and download the service account key as `firebase_credentials.json` in the project root.
